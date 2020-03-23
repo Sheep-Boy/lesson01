@@ -71,9 +71,4 @@ NETWORK = {
 }
 
 
---cclog("进入了config里面",LANGUAGE_VERSION.ENGLISH)
---当前网络状态 0 无连接 1 wifi 3移动网络
-NETWORK_TYPE = NETWORK.NOWEB
 
--- 是否跳过sdk
-JUMP_SDK = false
