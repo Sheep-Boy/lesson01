@@ -77,5 +77,3 @@ NETWORK_TYPE = NETWORK.NOWEB
 
 -- 是否跳过sdk
 JUMP_SDK = false
--- 默认账号  账号存在才可创建角色
-USER_ID = "155206149800100131"
